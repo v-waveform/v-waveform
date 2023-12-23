@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @v-waveform (encyrpted :p)
 - 👀 I’m interested in Everything about Tech
-- 🌱 I’m currently learning Hybrid Cloud based Distibuted applications
-- 💞️ I’m looking to collaborate on Java and Node JS related projects
+- 🌱 I’m currently learning Hybrid Cloud based Distibuted applications and Gen AI
+- 💞️ I’m looking to collaborate on Java, Python and JS related projects which uses Cloud and AI
 - 📫 How to reach me : send out a mail
 
 <!---
